@@ -1,6 +1,6 @@
 ## Tobi LLM Engineering
 
-A small collection of notebooks exploring practical Large Language Model (LLM) workflows.
+A small collection of notebooks and colab exploring practical Large Language Model (LLM) workflows.
 
 ### What's in this repo
 - `company-brochure.ipynb`: prompts and utilities to generate a company brochure with an LLM
